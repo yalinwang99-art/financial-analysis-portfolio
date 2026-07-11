@@ -1,4 +1,5 @@
 **QuickBooks Setup Checklist**
+
 **Phase 1 – Understand the Business**
 1. Company Information
  - Company legal name
