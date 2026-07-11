@@ -7,7 +7,7 @@
  - Fiscal year
  - Accounting method (Cash / Accrual)
  - Reporting currency
-3. Business Operations
+2. Business Operations
  - Main products/services
  - Revenue sources
  - Major expense categories
