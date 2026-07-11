@@ -13,6 +13,7 @@
  - Major expense categories
  - Business workflow
  - Industry-specific requirements
+   
 **Phase 2 – Gather Documents（收集资料）**
 1. Banking
  - Bank account list
@@ -40,6 +41,7 @@
  - Owner contributions
  - Retained earnings
  - Owner distributions
+   
 **Phase 3 – Design the Accounting System（设计会计系统）**
 1. Chart of Accounts
  - Asset accounts
@@ -57,6 +59,7 @@
  - Sales tax
  - Payroll tax
  - 1099 vendors
+   
 **Phase 4 – Opening Balance（录入期初余额）**
  - Bank balances
  - Accounts receivable
@@ -75,6 +78,7 @@
  - Expense transactions
  - Bank feeds
  - Rules (if needed)
+   
 **Phase 6 – Month-End Close（月结流程）**
  - Bank reconciliation
  - Review AR
@@ -84,6 +88,7 @@
  - Review General Ledger
  - Review Trial Balance
  - Review Financial Statements
+   
 **Phase 7 – Reports（报表）**
 - Run:
  - Balance Sheet
